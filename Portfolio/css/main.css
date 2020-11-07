@@ -1,0 +1,26 @@
+body{
+    background-color: #181c31;
+}    
+
+tkg-bttn{   
+    position: relative;
+    background: #293C7E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    width: fit-content;
+    height: fit-content;
+} 
+
+
+tkg-card-hover{
+    position: relative;
+    width: 200px;
+    background-color: white;
+    color: aquamarine;
+    padding: 20px;
+   
+    
+}
+
