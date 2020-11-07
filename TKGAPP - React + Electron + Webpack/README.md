@@ -1,4 +1,4 @@
-## TKGAPP (Ongoing) - (JavaScript)
+## TKGAPP (Ongoing) - (JavaScript)(Testing Envrionment)
 ### System: Windows
 ### Frameworks: React, ElectronJS, Custom Webpack (TKG-Template)
 ### Feb. 2020 to Current
