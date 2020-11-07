@@ -1,13 +1,13 @@
 # Personal-Projects
  My personal projects that I develop on my spare time. 
 
-## [TKGAPP (Ongoing) - (JavaScript)][1]
+## [TKGAPP (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/DesktopLauncher)
 ### System: Windows
 ### Frameworks: React, ElectronJS, My Custom Webpack (TKG-Template)
 ### Feb. 2020 to Current
 * Created a testing environment for testing new css styling and scripts for UI design.
 * Comes equipt with webpacker for custom templates. 
-[1]: https://github.com/tgraha09/Personal-Projects/tree/main/DesktopLauncher "Title"
+
 
 
 ## [Desktop Launcher (Ongoing) - (JavaScript)][2] 
