@@ -1,7 +1,7 @@
 # Personal-Projects
  My personal projects that I develop on my spare time. 
 
-## [TKGAPP (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/DesktopLauncher)
+## [TKGAPP (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/TKGAPP%20-%20React%20%2B%20Electron%20%2B%20Webpack)
 ### System: Windows
 ### Frameworks: React, ElectronJS, My Custom Webpack (TKG-Template)
 ### Feb. 2020 to Current
@@ -10,7 +10,7 @@
 
 
 
-## [Desktop Launcher (Ongoing) - (JavaScript)][2] 
+## [Desktop Launcher (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/DesktopLauncher)
 ### System: Windows
 ### Frameworks: React, ElectronJS, My Custom Webpack (TKG-Template)
 ### Feb. 2020 to Current
