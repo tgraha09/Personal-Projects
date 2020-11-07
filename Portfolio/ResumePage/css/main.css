@@ -1,0 +1,45 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #1a1c27;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.resume{
+    position: absolute;
+    left: calc(100%/2 - 800px);
+}
+
+.resume .info{
+    width: 1600px;
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume .info .email{
+    position: relative;
+    width: 320px;
+    height: 180px;
+    background: #292d3e;
+}
+.resume .info .email h2{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+

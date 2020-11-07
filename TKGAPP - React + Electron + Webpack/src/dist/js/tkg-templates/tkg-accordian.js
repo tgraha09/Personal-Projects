@@ -63,6 +63,8 @@ export class TKGAccordian extends TKG{
                                 let left = child.getBoundingClientRect().left
                                 let current = this
                                 let content = self.savedChildren
+                                let fadetime = $(self).css('transition')
+                                console.log(fadetime);
                                 for(let u = 0; u < content.length; u++){
                                     let saved = content[u]
                                     if(u != (current.idx - 1)){

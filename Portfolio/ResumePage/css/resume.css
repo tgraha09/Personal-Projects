@@ -1,0 +1,39 @@
+.resume embed{
+   
+    
+    height: 700px;
+    width: 800px;
+}
+
+.email{
+    position: absolute;
+    bottom: calc(100% - 50%);
+    right: calc(100% - 55%);
+    
+    
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 20px;
+    border-radius: 12px;
+    overflow:hidden;
+}
+.email .icon{
+    position: absolute;
+    right: calc(100%/2 - 50px);
+    top: calc(100%/2 - 75px);
+    display: block;
+    height: 50px;
+}
+
+.email h2{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.email span{
+    font-size: 80px;
+    height: 80px;
+    display: block;
+    line-height: 80px;
+    
+}
