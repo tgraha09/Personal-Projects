@@ -4,7 +4,7 @@
 ## [TKGAPP (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/TKGAPP%20-%20React%20%2B%20Electron%20%2B%20Webpack)
 ### System: Windows
 ### Frameworks: React, ElectronJS, Custom Webpack (TKG-Template)
-### Feb. 2020 to Current
+### Oct. 2020 to Current
 * Created a testing environment for testing new css styling and scripts for future project development.
 * Comes equipt with webpacker for custom templates. 
 
@@ -22,4 +22,8 @@
 * Developing a music history tracker using Spotify’s API to record my most recently played tracks to help determine my mood or emotion at the time of listening. 
 * This is done by analyzing the song’s genre, time played, and the number of times played over the course of however long. 
 
-
+## [Webpack (TKG-Templates) (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/WebPack)
+### System: Windows
+### Frameworks: ElectronJS, Webapack
+### Oct 2020 to Current
+* Developing a custom css template and script library for future projects with my own styled elements. 
