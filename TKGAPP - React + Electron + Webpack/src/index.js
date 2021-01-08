@@ -7,12 +7,16 @@ import { TKGHoverCard } from './dist/js/tkg-templates/tkg-card-hover'
 import { TKGPager } from './dist/js/tkg-templates/tkg-pager'
 import $ from "jquery";
 import './App.css';
-
+import { TKGHelpers } from './dist/js/tkg-helpers'
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { dirname } from 'path'
+
+
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -20,6 +24,9 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+var help = new TKGHelpers()
+console.log(help.FileExists(__dirname + '/test/test.txt'))
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

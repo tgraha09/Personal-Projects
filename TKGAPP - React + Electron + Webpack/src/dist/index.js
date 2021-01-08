@@ -8,29 +8,7 @@ import { TKGPager } from './js/tkg-templates/tkg-pager'
 import { TKGAccordian } from './js/tkg-templates/tkg-accordian'
 import $ from "jquery";
 
-/*module.exports = {
-    bttnstyle,
-    cardhoverstyle,
-    pager,
-    accordian,
-    TKGAccordian,
-    TKGButton,
-    TKGHoverCard,
-    TKGPager
-}*/
-
-//import {TKG} from './js/tkg-templates/tkg-templates.js';
-
-//import Accordian from './js/tkg-templates.js';
-//const HELP = require("./js/helper.js");
-
-
-
-//var t = new TKG()
-/*var a = new TKGButton()
-
-
-
-document.body.appendChild(a)
-a.SetLabel('<h2>BUTTON</h2>')*/
-//a.SetContent('<h2>H2 Header</h2><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>')
+/*1: Iterate from arr[1] to arr[n] over the array.
+2: Compare the current element (key) to its predecessor.
+3: If the key element is smaller than its predecessor, 
+compare it to the elements before. Move the greater elements one position up to.*/
