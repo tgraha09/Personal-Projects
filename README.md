@@ -8,7 +8,7 @@
 * Created a testing environment for testing new css styling and scripts for future project development.
 * Comes equipt with webpacker for custom templates. 
 
-## [Desktop Launcher (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/DesktopLauncher)
+## [Desktop Launcher (Ongoing) - (JavaScript)](https://github.com/tgraha09/Desktop-Launcher)
 ### System: Windows
 ### Frameworks: React, ElectronJS, Custom Webpack (TKG-Template)
 ### Feb. 2020 to Current
