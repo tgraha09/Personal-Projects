@@ -15,7 +15,7 @@
 * Developing a desktop launcher to house multiple projects for integration for workflow enhancement.
 * Aimed to substitute windows file explore, consolidate desktop space, and prioritize JavaScript development for quick project creation. 
 
-## [Spotify Music Tracker (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/Spotify-Music-Tracker)
+## [Spotify Music Tracker (Ongoing) - (JavaScript)](https://github.com/tgraha09/Spotify-Music-Tracker)
 ### System: Windows
 ### Frameworks: React, ElectronJS, Custom Webpack (TKG-Template)
 ### March 2020 to Current
