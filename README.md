@@ -22,7 +22,7 @@
 * Developing a music history tracker using Spotify’s API to record my most recently played tracks to help determine my mood or emotion at the time of listening. 
 * This is done by analyzing the song’s genre, time played, and the number of times played over the course of however long. 
 
-## [Webpack (TKG-Templates) (Ongoing) - (JavaScript)](https://github.com/tgraha09/Personal-Projects/tree/main/WebPack)
+## [Webpack (TKG-Templates) (Ongoing) - (JavaScript)](https://github.com/tgraha09/Web-Packer)
 ### System: Windows
 ### Frameworks: ElectronJS, Webapack
 ### Oct 2020 to Current
