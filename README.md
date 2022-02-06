@@ -1,10 +1,16 @@
 # Personal-Projects
  My personal projects that I develop on my spare time. 
 
+## [Dungeon Rogues (Ongoing) - (JavaScript)](https://github.com/tgraha09/Dungeon-Rogues)
+### System: Windows, Android/IOS
+### Frameworks: Unity
+### Oct 2021 to Current
+* Developing a 2.5D rogue like platformer dungeon looter where the player must traverse a dungeon to defeat each final boss. 
+
 ## [Perlin Simulator (Ongoing) - (JavaScript)](https://github.com/tgraha09/PerlinSimulator)
 ### System: Browser
 ### Frameworks: React, ViteJS
-### Oct 2021 to Current
+### Jan 2022 to Current
 * Developing a simulator for testing Perlin noise in level design by manipulating terrain data.
 * This is to help illustrate different algorithms that could be used for terrain building. 
 
