@@ -5,7 +5,8 @@
 ### System: Windows, Android/IOS
 ### Frameworks: Unity
 ### Oct 2021 to Current
-* Developing a 2.5D rogue like platformer dungeon looter where the player must traverse a dungeon to defeat each final boss. 
+* Play as a dungeon excavator, battling various monsters throughout multiple floors of a rogue style dungeon.
+* This is a 2.5D rogue like platformer dungeon looter where the player can find new items throughout the dungeons.
 
 ## [Perlin Simulator (Ongoing) - (JavaScript)](https://github.com/tgraha09/PerlinSimulator)
 ### System: Browser
