@@ -1,6 +1,14 @@
 # Personal-Projects
  My personal projects that I develop on my spare time. 
 
+## [Ecommerce Shop (Ongoing) - (JavaScript)](https://github.com/tgraha09/next-express)
+### System: Browser
+### Frameworks: React, SanityIO, MongoDB, Stripe
+### Feb. 2023 to Current
+* I am developing a restful ecommerce shop in ReactJS
+* This microservice is M.E.R.N. based and uses SanityIO & Stripe for product schemas and payment processing.
+ 
+
 ## [Dungeon Rogues (Ongoing) - (JavaScript)](https://github.com/tgraha09/Dungeon-Rogues)
 ### System: Windows, Android/IOS
 ### Frameworks: Unity
@@ -14,13 +22,6 @@
 ### Jan 2022 to Current
 * Developing a simulator for testing Perlin noise in level design by manipulating terrain data.
 * This is to help illustrate different algorithms that could be used for terrain building. 
-
-## [Desktop Launcher (Ongoing) - (JavaScript)](https://github.com/tgraha09/Desktop-Launcher)
-### System: Windows
-### Frameworks: React, ElectronJS, Custom Webpack (TKG-Template)
-### Feb. 2020 to Current
-* Developing a desktop launcher to house multiple projects for integration for workflow enhancement.
-* Aimed to substitute windows file explore, consolidate desktop space, and prioritize JavaScript development for quick project creation. 
 
 ## [Recipe Finder (Ongoing) - (JavaScript)](https://github.com/tgraha09/DomoMaker-A-Start)
 ### System: Browser
