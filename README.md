@@ -1,6 +1,18 @@
 # Personal-Projects
  My personal projects that I develop on my spare time. 
 
+## [Blazor SignalR Chat App (Completed) - (C#, HTML)](https://github.com/tgraha09/BlazorChatSignalRCore)
+### System: Browser
+### Frameworks: SignalR 
+### October 2023
+* I built a Demo chat app in Blazor using SignalR to manage the server side hosting for client side messages for different users.
+
+## [SpringBoot Swagger (Completed) - (Java)](https://github.com/tgraha09/springboot-swagger)
+### System: Browser
+### Frameworks: SpringBoot, SwaggerUI, MongoDB 
+### July 2023
+* I built a Demo SpringBoot and SwaggerUI project positioned for AWS deployment to post and retrieve user data from MongoDB. 
+
 ## [Ecommerce Shop (Ongoing) - (JavaScript)](https://github.com/tgraha09/next-express)
 ### System: Browser
 ### Frameworks: React, SanityIO, MongoDB, Stripe
